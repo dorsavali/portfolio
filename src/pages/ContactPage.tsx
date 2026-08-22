@@ -60,7 +60,7 @@ function Contact() {
             </p>
 
             <div className="mt-8 space-y-4">
-              <a href="mailto:mrs.dorsa.vali@gmail.com" className="flex items-center gap-4 rounded-2xl border border-white/10 bg-white/5 p-4 transition-colors hover:border-primary/40">
+              <a href="mailto:dorsavalli.dev@gmail.com" className="flex items-center gap-4 rounded-2xl border border-white/10 bg-white/5 p-4 transition-colors hover:border-primary/40">
                 <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary">
                   <Mail className="h-5 w-5" />
                 </span>
@@ -68,7 +68,7 @@ function Contact() {
                 <div>
                   <span className="block font-[geo] text-xs text-text-secondary">Email</span>
                   <span className="mt-1 block font-[geo] text-sm text-text-primary">
-                    mrs.dorsa.vali@gmail.com
+                    dorsavalli.dev@gmail.com
                   </span>
                 </div>
               </a>
@@ -107,7 +107,7 @@ function Contact() {
           </motion.div>
 
           <motion.div initial={{ opacity: 0, x: 25 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.6, delay: 0.1 }} className="rounded-3xl border border-white/10 bg-white/5 p-5 sm:p-7">
-            <form action="https://formsubmit.co/mrs.dorsa.vali@gmail.com" method="POST" className="space-y-5">
+            <form action="https://formsubmit.co/dorsavalli.dev@gmail.com" method="POST" className="space-y-5">
               <input type="hidden" name="_subject" value="New Portfolio Message" />
               <input type="hidden" name="_captcha" value="false" />
 

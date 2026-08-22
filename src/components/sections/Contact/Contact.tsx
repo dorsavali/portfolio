@@ -40,7 +40,7 @@ export default function Contact() {
 
             <div className="mt-10 flex flex-nowrap items-center justify-center gap-2">
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=mrs.dorsa.vali@gmail.com&su=Portfolio%20Contact"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=dorsavalli.dev@gmail.com&su=Portfolio%20Contact"
                 target="_blank"
                 rel="noreferrer"
                 className="w-36 sm:w-40"

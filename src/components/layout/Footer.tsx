@@ -34,7 +34,7 @@ export default function Footer() {
               <img src="/images/footer/LinkedIn.svg" alt="linkedin"  className="self-center"/>
             </a>
 
-            <a href="mailto:dorsavali@yahoo.com" aria-label="Email" className="flex h-12 w-12 items-center justify-center rounded-full bg-white text-primary transition-transform duration-300 hover:-translate-y-1">
+            <a href="mailto:dorsavalli.dev@gmail.com" aria-label="Email" className="flex h-12 w-12 items-center justify-center rounded-full bg-white text-primary transition-transform duration-300 hover:-translate-y-1">
               <Mail className="h-5 w-5" />
             </a>
           </div>
