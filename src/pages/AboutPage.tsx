@@ -6,8 +6,8 @@ import { Helmet } from "react-helmet-async";
 function About() {
   const handleDownloadCV = () => {
     const link = document.createElement("a");
-    link.href = "/document/DorsaValli.pdf";
-    link.download = "/document/DorsaValli.pdf";
+    link.href = "/document/DorsaValliCV.pdf";
+    link.download = "/document/DorsaValliCV.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
